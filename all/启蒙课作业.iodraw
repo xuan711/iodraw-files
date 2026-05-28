@@ -478,8 +478,11 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-4" value="小b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-6" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="4lvje19pPxo92jJMrrsR-6" value="指挥" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4lvje19pPxo92jJMrrsR-7" value="闯祸" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
