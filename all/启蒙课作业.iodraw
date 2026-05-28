@@ -520,10 +520,13 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-28" target="4lvje19pPxo92jJMrrsR-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-28" value="小b&lt;div&gt;漂亮姐姐&lt;/div&gt;&lt;div&gt;温柔&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="4lvje19pPxo92jJMrrsR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-28" target="4lvje19pPxo92jJMrrsR-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-30" value="指挥" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lvje19pPxo92jJMrrsR-28" value="小b&lt;div&gt;漂亮姐姐&lt;/div&gt;&lt;div&gt;温柔&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lvje19pPxo92jJMrrsR-30" value="安慰所有人" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-2" target="4lvje19pPxo92jJMrrsR-1">
