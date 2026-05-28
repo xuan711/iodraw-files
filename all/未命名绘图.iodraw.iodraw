@@ -199,13 +199,14 @@
         <mxCell id="i2MFBKovMdCOhifgirls-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-23" target="i2MFBKovMdCOhifgirls-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="759.2250000000001" />
-              <mxPoint x="280" y="536" />
+              <mxPoint x="380" y="759" />
+              <mxPoint x="280" y="759" />
+              <mxPoint x="280" y="476" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-23" value="攻击命中？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="738.45" width="120" height="41.55" as="geometry" />
+          <mxGeometry x="320" y="670" width="120" height="41.55" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-25" target="i2MFBKovMdCOhifgirls-27">
           <mxGeometry relative="1" as="geometry" />
@@ -213,13 +214,14 @@
         <mxCell id="i2MFBKovMdCOhifgirls-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-25" target="i2MFBKovMdCOhifgirls-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="849.615" />
-              <mxPoint x="510" y="536" />
+              <mxPoint x="380" y="850" />
+              <mxPoint x="510" y="850" />
+              <mxPoint x="510" y="476" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-25" value="本回合结束？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="830" width="120" height="39.23" as="geometry" />
+          <mxGeometry x="320" y="800" width="120" height="39.23" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-27" value="回合胜负判定" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="938.85" width="120" height="41.15" as="geometry" />
