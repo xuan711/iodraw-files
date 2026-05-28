@@ -393,11 +393,11 @@
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-1" value="玩家血量=0？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B7lJHIIrQbYdbFvJWiDr-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-3" value="失败" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-5" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="410" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="610" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
