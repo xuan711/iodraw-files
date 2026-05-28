@@ -369,16 +369,14 @@
             <mxPoint x="339.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWu3zNP6OzHhsV4l2OiE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kWu3zNP6OzHhsV4l2OiE-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="490" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kWu3zNP6OzHhsV4l2OiE-11" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="m3xzEw4etdS3_kMm7ttV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0vOVCcqIazSoZT66m2Xj-1" target="m3xzEw4etdS3_kMm7ttV-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0vOVCcqIazSoZT66m2Xj-1" value="进入boss战&lt;div&gt;初始化血量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3xzEw4etdS3_kMm7ttV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
