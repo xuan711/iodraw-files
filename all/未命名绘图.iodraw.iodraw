@@ -307,20 +307,23 @@
         <mxCell id="Dqo90Gd6U_VHKB4NseaV-4" value="进入BOSS战&lt;div&gt;初始化血量&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="330" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dqo90Gd6U_VHKB4NseaV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dqo90Gd6U_VHKB4NseaV-6" target="Dqo90Gd6U_VHKB4NseaV-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Dqo90Gd6U_VHKB4NseaV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dqo90Gd6U_VHKB4NseaV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dqo90Gd6U_VHKB4NseaV-6" value="玩家操作&lt;div&gt;移动/攻击/冲刺&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dqo90Gd6U_VHKB4NseaV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dqo90Gd6U_VHKB4NseaV-8" target="Dqo90Gd6U_VHKB4NseaV-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Dqo90Gd6U_VHKB4NseaV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Dqo90Gd6U_VHKB4NseaV-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="600" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Dqo90Gd6U_VHKB4NseaV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dqo90Gd6U_VHKB4NseaV-8" target="Dqo90Gd6U_VHKB4NseaV-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqo90Gd6U_VHKB4NseaV-8" value="攻击BOSS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="Dqo90Gd6U_VHKB4NseaV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Dqo90Gd6U_VHKB4NseaV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="570" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dqo90Gd6U_VHKB4NseaV-10" value="通关" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="680" width="120" height="60" as="geometry" />
