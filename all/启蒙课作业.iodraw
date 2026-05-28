@@ -521,8 +521,8 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-24" value="解决" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-25" value="躲开" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="4lvje19pPxo92jJMrrsR-25" value="找大姐求救" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
