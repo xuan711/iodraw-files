@@ -198,12 +198,6 @@
         <mxCell id="i2MFBKovMdCOhifgirls-22" value="回到玩家操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="421.26" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="711.55" as="sourcePoint" />
-            <mxPoint x="380.0344827586207" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380.0344827586207" y="711.55" as="sourcePoint" />
@@ -279,8 +273,14 @@
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-1" value="POW槽已满？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="562.82" width="80" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="VuQlJD6-QdnK3IFYOr_u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VuQlJD6-QdnK3IFYOr_u-4" target="VuQlJD6-QdnK3IFYOr_u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-4" value="攻击命中？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="660" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuQlJD6-QdnK3IFYOr_u-6" value="本回合结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="770" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
