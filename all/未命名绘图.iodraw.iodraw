@@ -241,8 +241,17 @@
         <mxCell id="i2MFBKovMdCOhifgirls-35" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="860" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-36" target="i2MFBKovMdCOhifgirls-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-36" value="整场结束？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-38" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1070" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-40" value="s&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
