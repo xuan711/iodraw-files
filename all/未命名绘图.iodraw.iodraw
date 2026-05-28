@@ -13,9 +13,6 @@
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DXnRvHT3ugx0Rl5r0s3j-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="DXnRvHT3ugx0Rl5r0s3j-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="玩家输入&lt;img height=&quot;null&quot; width=&quot;null&quot;&gt;处理&lt;div&gt;移动/引爆炸弹&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="315" y="245" width="130" height="90" as="geometry" />
         </mxCell>
@@ -43,14 +40,8 @@
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-5" value="炸到什么？&lt;div&gt;碎块/兔子&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="127.5" y="370" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DXnRvHT3ugx0Rl5r0s3j-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DXnRvHT3ugx0Rl5r0s3j-7" target="WIyWlLk6GJQsqaUBKTNV-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="105" y="485" />
-              <mxPoint x="105" y="290" />
-              <mxPoint x="319" y="290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="DXnRvHT3ugx0Rl5r0s3j-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DXnRvHT3ugx0Rl5r0s3j-7" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-7" value="击碎开路" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="125" y="465" width="120" height="40" as="geometry" />
