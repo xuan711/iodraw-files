@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-38" value="开始结算" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="910" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-40" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="1020" width="60" height="30" as="geometry" />
@@ -269,8 +269,14 @@
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-6" value="本回合结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="760" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="VuQlJD6-QdnK3IFYOr_u-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VuQlJD6-QdnK3IFYOr_u-10" target="VuQlJD6-QdnK3IFYOr_u-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-10" value="回合胜负判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VuQlJD6-QdnK3IFYOr_u-17" value="整场结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="990" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
