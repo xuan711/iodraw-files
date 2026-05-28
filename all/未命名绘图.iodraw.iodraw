@@ -224,8 +224,11 @@
         <mxCell id="i2MFBKovMdCOhifgirls-27" value="回合胜负判定" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="938.85" width="120" height="41.15" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-31" value="满" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="630" width="60" height="30" as="geometry" />
+        <mxCell id="i2MFBKovMdCOhifgirls-32" value="回到玩家操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="750" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-33" value="满" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
