@@ -475,6 +475,11 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-4" target="4lvje19pPxo92jJMrrsR-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4lvje19pPxo92jJMrrsR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-4" value="遇见困难和麻烦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -484,15 +489,8 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-7" value="闯祸" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-14" target="4lvje19pPxo92jJMrrsR-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="554" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-14" value="小d&lt;div&gt;无话小子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-16" target="4lvje19pPxo92jJMrrsR-1">
           <mxGeometry relative="1" as="geometry">
@@ -504,9 +502,6 @@
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-16" value="小e&lt;div&gt;胆小小子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-24" target="4lvje19pPxo92jJMrrsR-14">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-24" value="解决" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="460" width="60" height="30" as="geometry" />
