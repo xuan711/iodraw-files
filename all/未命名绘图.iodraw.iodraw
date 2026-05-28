@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-25" value="到达传送门" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="540" width="120" height="37.5" as="geometry" />
+          <mxGeometry x="520" y="450" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-27" value="通关" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="600" width="120" height="33.75" as="geometry" />
