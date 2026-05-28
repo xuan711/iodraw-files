@@ -324,6 +324,9 @@
         <mxCell id="Dqo90Gd6U_VHKB4NseaV-16" value="赢了" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="630" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Dqo90Gd6U_VHKB4NseaV-18" value="返回初始状态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
