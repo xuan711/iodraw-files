@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="phhxSzIomEMxbFMNABuK" name="第 2 页">
-    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,10 +243,10 @@
           <mxGeometry x="320" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-40" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1020" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-42" value="返回初始血量" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="960" width="80" height="30" as="geometry" />
+          <mxGeometry x="190" y="990" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VuQlJD6-QdnK3IFYOr_u-1" target="i2MFBKovMdCOhifgirls-16">
           <mxGeometry relative="1" as="geometry" />
