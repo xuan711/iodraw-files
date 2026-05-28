@@ -140,7 +140,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="phhxSzIomEMxbFMNABuK" name="第 2 页">
-    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,7 +262,7 @@
           <mxGeometry x="380" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-42" value="返回初始血量" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="730" width="80" height="30" as="geometry" />
+          <mxGeometry x="180" y="960" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
