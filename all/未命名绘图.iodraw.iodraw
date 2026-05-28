@@ -91,6 +91,9 @@
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-35" value="兔子" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="360" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DXnRvHT3ugx0Rl5r0s3j-37" value="回到初始化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
