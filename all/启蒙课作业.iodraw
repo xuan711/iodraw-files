@@ -417,11 +417,17 @@
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-12" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="770" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7lJHIIrQbYdbFvJWiDr-13" target="B7lJHIIrQbYdbFvJWiDr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-13" value="boss血量=0？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="920" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-15" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1080" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
