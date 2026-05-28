@@ -195,10 +195,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-16" value="可以释放大招" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="562.82" width="120" height="47.18" as="geometry" />
+          <mxGeometry x="530" y="571.7300000000001" width="120" height="47.18" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-18" value="满" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="555" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="562.82" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-22" value="回到玩家操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="421.26" width="80" height="30" as="geometry" />
@@ -274,10 +274,8 @@
         <mxCell id="i2MFBKovMdCOhifgirls-42" value="返回初始血量" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="960" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VuQlJD6-QdnK3IFYOr_u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VuQlJD6-QdnK3IFYOr_u-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="529.9999999999998" y="620" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VuQlJD6-QdnK3IFYOr_u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VuQlJD6-QdnK3IFYOr_u-1" target="i2MFBKovMdCOhifgirls-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-1" value="POW槽已满？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="562.82" width="80" height="65" as="geometry" />
