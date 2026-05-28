@@ -148,13 +148,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="120" height="50" as="geometry" />
+          <mxGeometry x="320" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-2" target="i2MFBKovMdCOhifgirls-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-2" value="选择角色" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="295" width="120" height="45" as="geometry" />
+          <mxGeometry x="320" y="280" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-4" target="i2MFBKovMdCOhifgirls-12">
           <mxGeometry relative="1" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry x="440" y="820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-34" value="回到玩家操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="760" width="80" height="30" as="geometry" />
+          <mxGeometry x="190" y="670" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
