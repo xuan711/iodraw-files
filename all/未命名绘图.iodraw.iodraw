@@ -182,11 +182,6 @@
         <mxCell id="i2MFBKovMdCOhifgirls-12" value="等待玩家操作&lt;div&gt;移动/攻击/防御/大招&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="451.26" width="120" height="48.75" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440.0000000000002" y="587.2068965517242" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="609.9999999999998" as="sourcePoint" />
@@ -279,8 +274,13 @@
         <mxCell id="i2MFBKovMdCOhifgirls-42" value="返回初始血量" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="960" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VuQlJD6-QdnK3IFYOr_u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VuQlJD6-QdnK3IFYOr_u-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529.9999999999998" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-1" value="POW槽已满？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="555" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="562.82" width="80" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
