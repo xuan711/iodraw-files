@@ -466,6 +466,9 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-1" target="4lvje19pPxo92jJMrrsR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4lvje19pPxo92jJMrrsR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-1" target="4lvje19pPxo92jJMrrsR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-1" value="小c&lt;div&gt;大姐大&lt;/div&gt;&lt;div&gt;起决策作用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -519,6 +522,9 @@
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-25" value="找大姐求救" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4lvje19pPxo92jJMrrsR-28" value="小c&lt;div&gt;大姐大&lt;/div&gt;&lt;div&gt;起决策作用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
