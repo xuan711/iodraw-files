@@ -390,6 +390,9 @@
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7lJHIIrQbYdbFvJWiDr-1" target="B7lJHIIrQbYdbFvJWiDr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7lJHIIrQbYdbFvJWiDr-1" target="B7lJHIIrQbYdbFvJWiDr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-1" value="玩家血量=0？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="600" width="80" height="80" as="geometry" />
         </mxCell>
@@ -398,6 +401,12 @@
         </mxCell>
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-5" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-8" value="玩家血量=0？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-10" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
