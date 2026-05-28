@@ -539,7 +539,14 @@
           <mxGeometry x="294" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.308;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-28" target="4lvje19pPxo92jJMrrsR-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="140" />
+              <mxPoint x="50" y="450" />
+              <mxPoint x="80" y="450" />
+              <mxPoint x="80" y="412" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-36" value="安慰所有人" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="300" width="70" height="30" as="geometry" />
