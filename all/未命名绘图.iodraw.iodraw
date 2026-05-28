@@ -162,6 +162,9 @@
         <mxCell id="i2MFBKovMdCOhifgirls-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-4" target="i2MFBKovMdCOhifgirls-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-4" target="i2MFBKovMdCOhifgirls-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-4" value="初始化血量时间PWO能量槽" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="120" height="47.5" as="geometry" />
         </mxCell>
@@ -176,6 +179,9 @@
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="530.01" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-12" value="等待玩家操作&lt;div&gt;移动/攻击/防御/大招&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="511.25" width="120" height="48.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
