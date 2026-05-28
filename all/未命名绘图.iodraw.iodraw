@@ -162,12 +162,6 @@
         <mxCell id="i2MFBKovMdCOhifgirls-4" value="初始化血量时间PWO能量槽" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="120" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="458.1300000000001" as="sourcePoint" />
-            <mxPoint x="180" y="530.01" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-12" target="i2MFBKovMdCOhifgirls-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -175,6 +169,9 @@
           <mxGeometry x="320" y="511.25" width="120" height="48.75" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-14" target="i2MFBKovMdCOhifgirls-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-14" target="i2MFBKovMdCOhifgirls-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-14" value="POW槽已满？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -195,6 +192,9 @@
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-22" value="回到玩家操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="500.01" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="738.45" width="120" height="41.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
