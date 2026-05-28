@@ -247,10 +247,10 @@
         <mxCell id="i2MFBKovMdCOhifgirls-36" value="整场结束？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="980" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-38" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="i2MFBKovMdCOhifgirls-38" value="开始结算" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-40" value="s&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i2MFBKovMdCOhifgirls-40" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
