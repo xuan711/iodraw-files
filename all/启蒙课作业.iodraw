@@ -472,6 +472,9 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-2" value="小a&lt;div&gt;冲锋手&lt;/div&gt;&lt;div&gt;爱探险&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4lvje19pPxo92jJMrrsR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-4" target="4lvje19pPxo92jJMrrsR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-4" value="遇见困难和麻烦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -485,7 +488,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-14" value="小d&lt;div&gt;无话小子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-16" target="4lvje19pPxo92jJMrrsR-1">
           <mxGeometry relative="1" as="geometry">
@@ -499,7 +502,7 @@
           <mxGeometry x="120" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-24" value="解决" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-25" value="找大姐求救" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="80" height="30" as="geometry" />
