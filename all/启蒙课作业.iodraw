@@ -360,10 +360,7 @@
         <mxCell id="0vOVCcqIazSoZT66m2Xj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWu3zNP6OzHhsV4l2OiE-4" target="0vOVCcqIazSoZT66m2Xj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kWu3zNP6OzHhsV4l2OiE-4" value="进入关卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kWu3zNP6OzHhsV4l2OiE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="kWu3zNP6OzHhsV4l2OiE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWu3zNP6OzHhsV4l2OiE-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="339.5" y="210" as="sourcePoint" />
             <mxPoint x="339.5" y="290" as="targetPoint" />
@@ -373,10 +370,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0vOVCcqIazSoZT66m2Xj-1" value="进入boss战&lt;div&gt;初始化血量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m3xzEw4etdS3_kMm7ttV-1" target="B7lJHIIrQbYdbFvJWiDr-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m3xzEw4etdS3_kMm7ttV-1" value="玩家操作&lt;div&gt;移动/攻击/冲刺&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ee5EL9n3SInTbXLzvd-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kWu3zNP6OzHhsV4l2OiE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.5" y="210" as="sourcePoint" />
+            <mxPoint x="339.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWu3zNP6OzHhsV4l2OiE-4" value="进入关卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-1" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
