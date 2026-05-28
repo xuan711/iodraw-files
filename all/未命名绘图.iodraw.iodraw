@@ -186,8 +186,14 @@
         <mxCell id="i2MFBKovMdCOhifgirls-12" value="等待玩家操作&lt;div&gt;移动/攻击/防御/大招&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="511.25" width="120" height="48.75" as="geometry" />
         </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-14" target="i2MFBKovMdCOhifgirls-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-14" value="POW槽已满？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="620" width="120" height="45.63" as="geometry" />
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-16" value="释放大招" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="618.45" width="120" height="47.18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
