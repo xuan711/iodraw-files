@@ -140,7 +140,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="phhxSzIomEMxbFMNABuK" name="第 2 页">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,11 +165,17 @@
         <mxCell id="i2MFBKovMdCOhifgirls-4" value="玩家输入处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="412.5" width="120" height="47.5" as="geometry" />
         </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-6" target="i2MFBKovMdCOhifgirls-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-6" value="战斗" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="414.38" width="120" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-8" value="移动" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="414.38" width="120" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530.01" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
