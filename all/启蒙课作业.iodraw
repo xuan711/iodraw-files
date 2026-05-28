@@ -420,8 +420,15 @@
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B7lJHIIrQbYdbFvJWiDr-13" target="B7lJHIIrQbYdbFvJWiDr-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B7lJHIIrQbYdbFvJWiDr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B7lJHIIrQbYdbFvJWiDr-13" target="m3xzEw4etdS3_kMm7ttV-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="B7lJHIIrQbYdbFvJWiDr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="960" as="sourcePoint" />
+            <mxPoint x="290" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="960" />
+              <mxPoint x="190" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="B7lJHIIrQbYdbFvJWiDr-13" value="boss血量=0？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="920" width="80" height="80" as="geometry" />
