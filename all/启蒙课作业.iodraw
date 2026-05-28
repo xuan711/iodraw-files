@@ -488,7 +488,7 @@
           <mxGeometry x="294" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-6" value="指挥" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="360" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-7" value="闯祸" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="60" height="30" as="geometry" />
@@ -531,6 +531,9 @@
             <mxPoint x="340" y="410" as="sourcePoint" />
             <mxPoint x="346.96000000000004" y="328.02" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4lvje19pPxo92jJMrrsR-32" value="指挥" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
