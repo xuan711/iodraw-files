@@ -156,29 +156,17 @@
         <mxCell id="i2MFBKovMdCOhifgirls-2" value="选择角色" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="295" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-4" target="i2MFBKovMdCOhifgirls-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-4" target="i2MFBKovMdCOhifgirls-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-4" target="i2MFBKovMdCOhifgirls-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-4" value="初始化血量时间PWO能量槽" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="120" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-6" target="i2MFBKovMdCOhifgirls-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-6" value="战斗" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="414.38" width="120" height="43.75" as="geometry" />
-        </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-8" value="移动" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="414.38" width="120" height="43.75" as="geometry" />
-        </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="530.01" width="120" height="40" as="geometry" />
+        <mxCell id="i2MFBKovMdCOhifgirls-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="458.1300000000001" as="sourcePoint" />
+            <mxPoint x="180" y="530.01" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-12" target="i2MFBKovMdCOhifgirls-14">
           <mxGeometry relative="1" as="geometry" />
