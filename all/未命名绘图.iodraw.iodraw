@@ -308,8 +308,11 @@
         <mxCell id="Dqo90Gd6U_VHKB4NseaV-10" value="通关" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dqo90Gd6U_VHKB4NseaV-12" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Dqo90Gd6U_VHKB4NseaV-12" value="死亡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqo90Gd6U_VHKB4NseaV-14" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
