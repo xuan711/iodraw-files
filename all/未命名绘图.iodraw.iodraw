@@ -192,6 +192,13 @@
         <mxCell id="i2MFBKovMdCOhifgirls-14" value="POW槽已满？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="620" width="120" height="45.63" as="geometry" />
         </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-16" target="i2MFBKovMdCOhifgirls-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="536" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-16" value="释放大招" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="618.45" width="120" height="47.18" as="geometry" />
         </mxCell>
