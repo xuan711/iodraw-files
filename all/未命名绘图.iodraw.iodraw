@@ -205,6 +205,9 @@
         <mxCell id="i2MFBKovMdCOhifgirls-18" value="满" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="610" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-22" value="回到玩家操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500.01" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
