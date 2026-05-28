@@ -218,11 +218,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380.0344827586207" y="941.1500000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-32" value="回到玩家操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="750" width="80" height="30" as="geometry" />
         </mxCell>
@@ -235,25 +230,25 @@
         <mxCell id="i2MFBKovMdCOhifgirls-35" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-36" target="i2MFBKovMdCOhifgirls-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-36" target="i2MFBKovMdCOhifgirls-4">
+        <mxCell id="i2MFBKovMdCOhifgirls-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-38">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1020" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1000.0344827586207" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="150" y="1000" />
               <mxPoint x="150" y="384" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-36" value="整场结束？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="980" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-38" value="开始结算" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-40" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1030" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-42" value="返回初始血量" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="960" width="80" height="30" as="geometry" />
@@ -278,6 +273,9 @@
         </mxCell>
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-6" value="本回合结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VuQlJD6-QdnK3IFYOr_u-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VuQlJD6-QdnK3IFYOr_u-10" target="i2MFBKovMdCOhifgirls-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VuQlJD6-QdnK3IFYOr_u-10" value="回合胜负判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="880" width="80" height="80" as="geometry" />
