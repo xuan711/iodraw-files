@@ -102,6 +102,9 @@
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-25" value="可选：拾取道具" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="450" width="120" height="37.5" as="geometry" />
         </mxCell>
+        <mxCell id="DXnRvHT3ugx0Rl5r0s3j-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DXnRvHT3ugx0Rl5r0s3j-27" target="DXnRvHT3ugx0Rl5r0s3j-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-27" value="到达传送门" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="555" width="120" height="33.75" as="geometry" />
         </mxCell>
@@ -129,6 +132,9 @@
         </mxCell>
         <mxCell id="DXnRvHT3ugx0Rl5r0s3j-45" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="407.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DXnRvHT3ugx0Rl5r0s3j-46" value="通关结算" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="655.63" width="120" height="34.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
