@@ -472,13 +472,15 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-2" target="4lvje19pPxo92jJMrrsR-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-2" target="4lvje19pPxo92jJMrrsR-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4lvje19pPxo92jJMrrsR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-2" value="小a&lt;div&gt;冲锋手&lt;/div&gt;&lt;div&gt;爱探险&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-4" value="小d&lt;div&gt;无话小子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lvje19pPxo92jJMrrsR-4" value="遇见困难" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-6" value="指挥" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -487,17 +489,14 @@
         <mxCell id="4lvje19pPxo92jJMrrsR-7" value="闯祸" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-8" target="4lvje19pPxo92jJMrrsR-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-8" value="小b&lt;div&gt;漂亮姐姐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="4lvje19pPxo92jJMrrsR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="554" y="470" as="sourcePoint" />
+            <mxPoint x="554" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-10" value="闯祸" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4lvje19pPxo92jJMrrsR-11" value="解决困难" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
