@@ -507,6 +507,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4lvje19pPxo92jJMrrsR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lvje19pPxo92jJMrrsR-16" target="4lvje19pPxo92jJMrrsR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="154" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-16" value="小e&lt;div&gt;胆小小子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="94" y="410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -514,7 +522,7 @@
           <mxGeometry x="450" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lvje19pPxo92jJMrrsR-25" value="躲开" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
