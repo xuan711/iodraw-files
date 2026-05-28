@@ -182,9 +182,10 @@
         <mxCell id="i2MFBKovMdCOhifgirls-12" value="等待玩家操作&lt;div&gt;移动/攻击/防御/大招&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="451.26" width="120" height="48.75" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-23">
+        <mxCell id="i2MFBKovMdCOhifgirls-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="609.9999999999998" as="sourcePoint" />
+            <mxPoint x="380.0344827586207" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-16" target="i2MFBKovMdCOhifgirls-12">
@@ -203,20 +204,20 @@
         <mxCell id="i2MFBKovMdCOhifgirls-22" value="回到玩家操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="421.26" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-23" target="i2MFBKovMdCOhifgirls-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-23" target="i2MFBKovMdCOhifgirls-12">
+        <mxCell id="i2MFBKovMdCOhifgirls-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-25">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="711.55" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2MFBKovMdCOhifgirls-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="i2MFBKovMdCOhifgirls-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380.0344827586207" y="711.55" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="380" y="759" />
               <mxPoint x="280" y="759" />
               <mxPoint x="280" y="476" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="i2MFBKovMdCOhifgirls-23" value="攻击命中？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="670" width="120" height="41.55" as="geometry" />
         </mxCell>
         <mxCell id="i2MFBKovMdCOhifgirls-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2MFBKovMdCOhifgirls-25" target="i2MFBKovMdCOhifgirls-27">
           <mxGeometry relative="1" as="geometry" />
