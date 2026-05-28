@@ -373,10 +373,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0vOVCcqIazSoZT66m2Xj-1" value="进入boss战&lt;div&gt;初始化血量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m3xzEw4etdS3_kMm7ttV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="m3xzEw4etdS3_kMm7ttV-1" value="玩家操作&lt;div&gt;移动/攻击/冲刺&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
