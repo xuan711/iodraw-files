@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1odD4T9VLXh5GyFuQEBJ">
-    <mxGraphModel dx="1434" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-55" value="玩家来到这里要干什么？&lt;br data-start=&quot;2677&quot; data-end=&quot;2680&quot;&gt;&#xa;完成后获得什么？&lt;br data-start=&quot;2690&quot; data-end=&quot;2693&quot;&gt;&#xa;为什么能进入下一个区域？" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="-50" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-56" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-57" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="60" height="30" as="geometry" />
@@ -120,7 +117,7 @@
           <mxGeometry x="210" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-82" value="捷径" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="505" y="860" width="55" height="50" as="geometry" />
+          <mxGeometry x="410" y="870" width="55" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
