@@ -102,7 +102,10 @@
           <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-55" value="玩家来到这里要干什么？&lt;br data-start=&quot;2677&quot; data-end=&quot;2680&quot;&gt;&#xa;完成后获得什么？&lt;br data-start=&quot;2690&quot; data-end=&quot;2693&quot;&gt;&#xa;为什么能进入下一个区域？" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="140" width="230" height="140" as="geometry" />
+          <mxGeometry x="540" y="-50" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-56" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
