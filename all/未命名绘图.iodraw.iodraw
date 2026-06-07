@@ -112,8 +112,14 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-72" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="710" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-74" target="DSG94BElqU5DjD35SzGC-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-74" value="岩浆区小boss战" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-76" value="&lt;div&gt;地形机制&lt;/div&gt;岩浆河出现" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
