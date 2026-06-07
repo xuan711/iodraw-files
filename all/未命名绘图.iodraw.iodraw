@@ -16,16 +16,10 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-7" value="怪物战斗A：&lt;div&gt;第一波小怪群&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSG94BElqU5DjD35SzGC-19">
+        <mxCell id="DSG94BElqU5DjD35SzGC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSG94BElqU5DjD35SzGC-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="590" as="sourcePoint" />
+            <mxPoint x="260" y="700" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-19" target="DSG94BElqU5DjD35SzGC-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-19" value="岩浆区&lt;div&gt;初始区域&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-21" target="DSG94BElqU5DjD35SzGC-23">
           <mxGeometry relative="1" as="geometry" />
@@ -118,8 +112,14 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-60" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="330" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-62" target="DSG94BElqU5DjD35SzGC-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-62" value="岩浆区" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-64" value="岩浆区" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
