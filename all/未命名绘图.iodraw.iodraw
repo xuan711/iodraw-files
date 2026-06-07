@@ -99,7 +99,7 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-64" target="DSG94BElqU5DjD35SzGC-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-64" value="岩浆区大桥" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DSG94BElqU5DjD35SzGC-64" value="岩浆区大桥&lt;div&gt;跳台和小怪&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-66" target="DSG94BElqU5DjD35SzGC-70">
