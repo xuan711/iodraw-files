@@ -135,8 +135,14 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-85" value="BOSS房" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-87" value="BOSS房" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1380" width="120" height="60" as="geometry" />
+        <mxCell id="DSG94BElqU5DjD35SzGC-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-87" target="DSG94BElqU5DjD35SzGC-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-87" value="最终BOSS战" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-89" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
