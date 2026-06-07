@@ -66,7 +66,7 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-23" target="DSG94BElqU5DjD35SzGC-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-23" value="岩浆区精英boss" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DSG94BElqU5DjD35SzGC-23" value="岩浆区小怪boss" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-25" target="DSG94BElqU5DjD35SzGC-29">
