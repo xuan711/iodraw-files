@@ -88,7 +88,7 @@
           <mxGeometry x="600" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-31" value="BOSS房" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
