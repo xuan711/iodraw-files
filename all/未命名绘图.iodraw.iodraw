@@ -16,16 +16,17 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-7" value="怪物战斗A：&lt;div&gt;第一波小怪群&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSG94BElqU5DjD35SzGC-23">
+        <mxCell id="DSG94BElqU5DjD35SzGC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="780" as="sourcePoint" />
+            <mxPoint x="540" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-23" target="DSG94BElqU5DjD35SzGC-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-23" value="岩浆区小怪boss" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="DSG94BElqU5DjD35SzGC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="780" as="sourcePoint" />
+            <mxPoint x="600" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-25" target="DSG94BElqU5DjD35SzGC-29">
           <mxGeometry relative="1" as="geometry" />
@@ -33,11 +34,10 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-25" value="隐藏区域&lt;div&gt;宝箱点2&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="870" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-27" target="DSG94BElqU5DjD35SzGC-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-27" value="岩浆区域" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="DSG94BElqU5DjD35SzGC-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSG94BElqU5DjD35SzGC-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="810" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-29" target="DSG94BElqU5DjD35SzGC-31">
           <mxGeometry relative="1" as="geometry">
@@ -109,8 +109,14 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-62" value="岩浆区" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-64" target="DSG94BElqU5DjD35SzGC-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-64" value="岩浆区大桥" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-66" value="是否发现&lt;div&gt;捷径&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="730" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
