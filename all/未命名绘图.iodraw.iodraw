@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-10" value="怪物关卡B" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-12" target="DSG94BElqU5DjD35SzGC-16">
           <mxGeometry relative="1" as="geometry" />
@@ -87,6 +87,9 @@
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-46" target="DSG94BElqU5DjD35SzGC-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-46" target="DSG94BElqU5DjD35SzGC-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-46" value="是否发现&lt;div&gt;隐藏入口1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
