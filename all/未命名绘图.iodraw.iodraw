@@ -49,8 +49,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="DSG94BElqU5DjD35SzGC-19" value="岩浆区：&lt;div&gt;岩浆区大桥&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
