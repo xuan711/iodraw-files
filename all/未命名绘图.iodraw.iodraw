@@ -118,8 +118,8 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-62" value="岩浆区" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-64" value="岩浆区" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="DSG94BElqU5DjD35SzGC-64" value="岩浆区大桥" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
