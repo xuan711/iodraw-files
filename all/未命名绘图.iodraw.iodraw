@@ -16,19 +16,10 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-7" value="怪物战斗A：&lt;div&gt;第一波小怪群&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSG94BElqU5DjD35SzGC-21">
+        <mxCell id="DSG94BElqU5DjD35SzGC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSG94BElqU5DjD35SzGC-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="700" as="sourcePoint" />
+            <mxPoint x="820" y="780" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-21" target="DSG94BElqU5DjD35SzGC-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-21" target="DSG94BElqU5DjD35SzGC-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-21" value="岩浆区大桥" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-23" target="DSG94BElqU5DjD35SzGC-27">
           <mxGeometry relative="1" as="geometry" />
