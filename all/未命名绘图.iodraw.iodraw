@@ -113,6 +113,15 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-57" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="300" as="sourcePoint" />
+            <mxPoint x="330" y="405" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-58" value="返回主路" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="260" width="120" height="60" as="geometry" />
         </mxCell>
