@@ -16,11 +16,10 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-7" value="怪物战斗A：&lt;div&gt;第一波小怪群&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-25" target="DSG94BElqU5DjD35SzGC-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-25" value="隐藏区域&lt;div&gt;宝箱点2&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="870" width="80" height="80" as="geometry" />
+        <mxCell id="DSG94BElqU5DjD35SzGC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DSG94BElqU5DjD35SzGC-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="910" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSG94BElqU5DjD35SzGC-29">
           <mxGeometry relative="1" as="geometry">
@@ -106,10 +105,15 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-66" target="DSG94BElqU5DjD35SzGC-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-66" value="是否发现&lt;div&gt;捷径&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-70" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DSG94BElqU5DjD35SzGC-70" value="隐藏宝箱2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-72" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
