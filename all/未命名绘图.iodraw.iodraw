@@ -10,6 +10,9 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-4" value="关卡开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="230" y="-90" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-7" target="DSG94BElqU5DjD35SzGC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-7" value="怪物战斗A：&lt;div&gt;第一波小怪群&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -94,8 +97,8 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-35" value="熔岩区入口" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-42" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="DSG94BElqU5DjD35SzGC-44" value="怪物战斗A：&lt;div&gt;第一波小怪群&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
