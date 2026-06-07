@@ -101,7 +101,7 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-49" value="隐藏宝箱1" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-53" value="主路" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DSG94BElqU5DjD35SzGC-53" value="怪物战斗B&lt;div&gt;远程怪+陷阱组合&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-55" value="玩家来到这里要干什么？&lt;br data-start=&quot;2677&quot; data-end=&quot;2680&quot;&gt;&#xa;完成后获得什么？&lt;br data-start=&quot;2690&quot; data-end=&quot;2693&quot;&gt;&#xa;为什么能进入下一个区域？" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -115,6 +115,9 @@
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-58" value="返回主路" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-60" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
