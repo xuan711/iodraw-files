@@ -97,7 +97,7 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-35" value="熔岩区入口" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-44" value="怪物战斗A：&lt;div&gt;第一波小怪群&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DSG94BElqU5DjD35SzGC-44" value="是否发现隐藏入口1" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
