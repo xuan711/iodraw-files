@@ -28,22 +28,11 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-12" value="怪物关卡C" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-14" value="隐藏区域&lt;div&gt;宝箱点1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="220" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-16" target="DSG94BElqU5DjD35SzGC-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-16" value="怪物关卡D" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-14" target="DSG94BElqU5DjD35SzGC-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="560" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-19" target="DSG94BElqU5DjD35SzGC-21">
           <mxGeometry relative="1" as="geometry" />
@@ -98,7 +87,7 @@
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-46" value="是否发现&lt;div&gt;隐藏入口1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="240" width="95" height="80" as="geometry" />
+          <mxGeometry x="222.5" y="250" width="95" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
