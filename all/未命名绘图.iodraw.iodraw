@@ -49,8 +49,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSG94BElqU5DjD35SzGC-19" target="DSG94BElqU5DjD35SzGC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DSG94BElqU5DjD35SzGC-19" value="岩浆区&lt;div&gt;初始区域&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSG94BElqU5DjD35SzGC-21" value="岩浆区大桥" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
