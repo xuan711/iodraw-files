@@ -141,7 +141,7 @@
         <mxCell id="DSG94BElqU5DjD35SzGC-87" value="最终BOSS战" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSG94BElqU5DjD35SzGC-89" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DSG94BElqU5DjD35SzGC-89" value="通关结算" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="230" y="1450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
