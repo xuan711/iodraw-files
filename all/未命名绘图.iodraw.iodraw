@@ -152,8 +152,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a32cxQrAufLcY3CVBVRP-1" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="280" height="390" as="geometry" />
+        <mxCell id="a32cxQrAufLcY3CVBVRP-1" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="280" height="390" as="geometry" />
         </mxCell>
         <mxCell id="a32cxQrAufLcY3CVBVRP-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="320" width="50" height="50" as="geometry" />
