@@ -56,8 +56,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-19" target="DNbR3wqtQ4NfMxGLzq8D-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-19" value="第四个岛屿&lt;div&gt;选择职业&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="20" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-21" value="是否选择上" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
