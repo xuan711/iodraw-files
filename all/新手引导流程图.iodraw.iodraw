@@ -85,11 +85,11 @@
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-28" target="DNbR3wqtQ4NfMxGLzq8D-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-28" value="跳跃成功？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-28" value="跳跃成功？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="40" y="940" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-30" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1110" width="120" height="60" as="geometry" />
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-30" value="第六个岛屿&lt;div&gt;与npc对话&lt;/div&gt;&lt;div&gt;选择神体&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
