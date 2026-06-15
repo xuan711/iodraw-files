@@ -132,10 +132,13 @@
           <mxGeometry x="160" y="1169" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-42" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-43" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-44" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
