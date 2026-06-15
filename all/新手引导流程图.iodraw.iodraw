@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-9" value="装备是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="210" width="120" height="120" as="geometry" />
+          <mxGeometry x="27.5" y="220" width="105" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-12" target="DNbR3wqtQ4NfMxGLzq8D-16">
           <mxGeometry relative="1" as="geometry" />
@@ -99,7 +99,7 @@
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-30" target="DNbR3wqtQ4NfMxGLzq8D-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-30" value="第六个岛屿&lt;div&gt;与npc对话&lt;/div&gt;&lt;div&gt;选择神体&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-30" value="第六个岛屿&lt;div&gt;与npc对话&lt;/div&gt;&lt;div&gt;选择神体&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="20" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-32" target="DNbR3wqtQ4NfMxGLzq8D-34">
