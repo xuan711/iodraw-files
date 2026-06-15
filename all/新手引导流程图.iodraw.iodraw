@@ -30,11 +30,20 @@
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-9" value="装备是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="20" y="210" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-12" target="DNbR3wqtQ4NfMxGLzq8D-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-12" value="第三个岛屿&lt;div&gt;学习技能并且打3个木靶&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="20" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-14" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-15" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-16" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
