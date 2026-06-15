@@ -10,14 +10,13 @@
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-2" value="玩家出生" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-5" target="DNbR3wqtQ4NfMxGLzq8D-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-5" value="第二个岛屿" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-7" value="第二个岛屿" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-5" value="第二个岛屿&lt;div&gt;触发卷轴展开&lt;/div&gt;&lt;div&gt;学习装备武器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
