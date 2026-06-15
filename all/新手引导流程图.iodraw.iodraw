@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-19" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-19" value="第四个岛屿&lt;div&gt;选择职业&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="20" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
