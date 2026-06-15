@@ -31,7 +31,10 @@
           <mxGeometry x="20" y="210" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-12" value="第三个岛屿&lt;div&gt;学习技能并且打3个木靶&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-14" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
