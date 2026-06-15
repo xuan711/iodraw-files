@@ -24,8 +24,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-9" target="DNbR3wqtQ4NfMxGLzq8D-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-9" value="装备是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="20" y="210" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-12" value="" style="whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
