@@ -19,7 +19,7 @@
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-9" target="DNbR3wqtQ4NfMxGLzq8D-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="270" />
+              <mxPoint x="230" y="285" />
               <mxPoint x="230" y="150" />
             </Array>
           </mxGeometry>
@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-32" value="对话结束？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-32" value="对话结束？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="30" y="1160" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-34" value="领取宝箱&lt;div&gt;进入主线&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=33;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
