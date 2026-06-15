@@ -45,6 +45,14 @@
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-16" value="木靶击败？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-16" target="DNbR3wqtQ4NfMxGLzq8D-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="540" />
+              <mxPoint x="210" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
