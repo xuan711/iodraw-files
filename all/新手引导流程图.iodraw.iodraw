@@ -76,8 +76,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-24" target="DNbR3wqtQ4NfMxGLzq8D-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-24" value="第五个岛屿&lt;div&gt;学习二连眺操作&lt;/div&gt;&lt;div&gt;示范→跳向对岛&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="20" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-28" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="940" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
