@@ -42,6 +42,9 @@
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-15" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNbR3wqtQ4NfMxGLzq8D-16" target="DNbR3wqtQ4NfMxGLzq8D-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DNbR3wqtQ4NfMxGLzq8D-16" value="木靶击败？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="80" height="80" as="geometry" />
         </mxCell>
@@ -52,6 +55,9 @@
               <mxPoint x="210" y="404" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DNbR3wqtQ4NfMxGLzq8D-19" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
